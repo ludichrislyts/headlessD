@@ -34,3 +34,10 @@ div[ng-view]{
 form input{
     margin-bottom: 0.5em;
 }
+.main-image{
+    background-image: url(main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
